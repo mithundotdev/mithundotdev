@@ -1,59 +1,54 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e293b&height=160&section=header&text=Mithun%20Kumar&fontSize=46&fontColor=e2e8f0&fontAlignY=32&desc=ECE%20Dude%20%E2%9C%A6%20Python%20%E2%9C%A6%20IoT%20%E2%9C%A6%20Data&descAlignY=55" />
-</p>
+```
+ _ __ ___   __ _ _ __  _ __ ___   ___ _ __ | |_ 
+| '_ ` _ \ / _` | '_ \| '_ ` _ \ / _ \ '_ \| __|
+| | | | | | (_| | | | | | | | | |  __/ | | | |_ 
+|_| |_| |_|\__,_|_| |_|_| |_| |_|\___|_| |_|\__|
+                                                      
+  ECE engineer in training · Python · IoT · Data
+```
+```
+mithun@be-2026:~$ whoami
+Mithun Kumar — Chennai, India
 
-```python
-class MithunKumar:
-    def __init__(self):
-        self.name = "Mithun Kumar"
-        self.location = "Chennai, India"
-        self.studying = "BE ECE @ Rajalakshmi Institute of Technology"
-        self.interests = ["Python", "IoT", "Embedded AI", "Data Viz"]
-        self.currently = "Wiring up dashboards & teaching ESP32s new tricks"
+mithun@be-2026:~$ cat /etc/education
+Rajalakshmi Institute of Technology  →  BE ECE  ·  CGPA 7.6
+Mahatma Higher Secondary School       →  12th     ·  88.6%
+MG Public Matric School               →  10th     ·  92.3%
 
-    def hi(self):
-        print("print('hello, world') feels like magic every. single. time.")
+mithun@be-2026:~$ ~/stack --list
+[python] [java] [sql] [html] [c] [flask] [react] [tableau] [git] [esp32]
+[embedded-ai] [tensorflow-lite-micro] [lstm] [firebase] [chart.js]
+
+mithun@be-2026:~$ ls ~/projects/
+expense-manager/          # Flask + SQL + Chart.js, CRUD REST, live on Render
+soldier-health-monitor/   # ESP32 wearable + TFLite Micro + LSTM, React/Firebase alerts
+
+mithun@be-2026:~$ echo "$MOTTO"
+print('hello, world') feels like magic every. single. time.
+
+mithun@be-2026:~$ uptime
+status: grinding   ·   class of 2026   ·   open to roles
 ```
 
-### ⚡ Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![IoT](https://img.shields.io/badge/IoT%20%2F%20ESP32-003545?style=for-the-badge&logo=espressif&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-### 🚀 Flagship builds
-
-**💸 Expense Manager** — Python · Flask · SQL · Chart.js · live on Render
-> RESTful CRUD for daily spending + interactive daily/monthly/yearly charts.
-
-**🪖 AI Soldier Health Monitoring & Explosion Prediction** — IoT · Embedded AI · LSTM
-> ESP32 wearable tracking HR/SpO2/temp/respiration/GPS, TensorFlow Lite Micro on-device inference, LSTM risk detection, React+Firebase alert dashboard.
-
-### 🧠 Mission control
+### 📈 Live signal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mithundotdev&show_icons=true&theme=nightowl&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithundotdev&layout=compact&theme=nightowl&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mithundotdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithundotdev&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithundotdev&theme=nightowl&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithundotdev&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-### 🏫 Education
-| Level | Place | Score |
-|------|------|------|
-| BE (ECE) | Rajalakshmi Institute of Technology, Chennai | CGPA **7.6** |
-| 12th | Mahatma Higher Secondary School | **88.6%** |
-| 10th | MG Public Matric School | **92.3%** |
+### ☎️ Contact
 
-### 📡 Connect
-📞 +91-8778423646 · 📧 [srisrin082@gmail.com](mailto:srisrin082@gmail.com) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) · [![Portfolio](https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=react&logoColor=black)](https://mithundotdev.github.io/portfolio/)
+```
+📞 +91-8778423646     📧 srisrin082@gmail.com
+🌐 mithundotdev.github.io/portfolio/
+```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:38bdf8&height=120&section=footer" />
+  <i>"Left-pad my coffee, right-pad my indentation."</i>
 </p>
