@@ -2,19 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e293b&height=160&section=header&text=Mithun%20Kumar&fontSize=46&fontColor=e2e8f0&fontAlignY=32&desc=ECE%20Dude%20%E2%9C%A6%20Python%20%E2%9C%A6%20IoT%20%E2%9C%A6%20Data&descAlignY=55" />
 </p>
 
-```python
-class MithunKumar:
-    def __init__(self):
-        self.name = "Mithun Kumar"
-        self.location = "Chennai, India"
-        self.studying = "BE ECE @ Rajalakshmi Institute of Technology"
-        self.interests = ["Python", "IoT", "Embedded AI", "Data Viz"]
-        self.currently = "Wiring up dashboards & teaching ESP32s new tricks"
-
-    def hi(self):
-        print("print('hello, world') feels like magic every. single. time.")
-```
-
 ### ⚡ Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
