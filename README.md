@@ -38,6 +38,17 @@
 | 12th | Mahatma Higher Secondary School | **88.6%** |
 | 10th | MG Public Matric School | **92.3%** |
 
+### 📜 Certifications
+- Programming for Everybody (Getting Started with Python)
+- Python Data Structures
+- Introduction to Artificial Intelligence
+- Certificate of Participation — NetworkGeek
+
+### 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mithundotdev&theme=onedark&no-frame=true&margin-w=8" />
+</p>
+
 ### 📡 Connect
 📞 +91-8778423646 · 📧 [srisrin082@gmail.com](mailto:srisrin082@gmail.com) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) · [![Portfolio](https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=react&logoColor=black)](https://mithundotdev.github.io/portfolio/)
 
